@@ -1,0 +1,11 @@
+Escenciales:
+    1. ESCRIBIR VERSION GENERICA DE LOS ARCHIVOS PRINCIPALES DEL PROYECTO;
+    2. TERMINAR CONSTRUCCIÓN DE DIRECTORIOS Y ARCHIVOS NECESARIOS
+    3. AGREGAR MANEJO DE PLANTILLAS PARA INSTANCIACIÓN DE PROYECTO
+    4. Reescribir "Minificar"
+    5. Escribir "Correr"
+
+Otras
+- Documentación
+- Pensar refactor de dependencias JS usando NPM o Github (agrega punto de fricción pero permite distribuir versiones estables de las librerías/módulos relevantes...)
+- Pensar en Stack GO
