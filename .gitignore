@@ -4,7 +4,7 @@ __pycache__
 
 
 
-secretos/
+.secretos
 dependencias
 
 .goreleaser*
